@@ -1,4 +1,6 @@
 # AmazingMaze
-Uma página que gera e resolve labirintos
+Wallpaper pro Wallpaper engine
 
-Também disponível pra download na Steam pra quem tem o Wallpaper Engine: https://steamcommunity.com/sharedfiles/filedetails/?id=1550989740
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1550989740)
+
+![Demo](preview.gif?raw=true "Demo")
